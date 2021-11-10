@@ -5,8 +5,8 @@ import android.view.LayoutInflater
 import android.view.ViewGroup
 import android.widget.TextView
 import androidx.appcompat.app.AppCompatActivity
-import androidx.recyclerview.widget2.DiffUtil
-import androidx.recyclerview.widget2.RecyclerView
+import androidx.recyclerview.widget.DiffUtil
+import androidx.recyclerview.widget.RecyclerView
 import com.example.rvcrash.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
